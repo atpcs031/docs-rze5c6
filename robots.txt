@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://atpcs031.github.io/docs-rze5c6/sitemap.xml
